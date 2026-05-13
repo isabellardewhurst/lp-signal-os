@@ -1,0 +1,9 @@
+investor_id,name,type,aum_bn,region,preferred_stage,sector_interest,risk_appetite,liquidity_preference,known_concerns,recent_signal
+INV001,Northbridge Capital Partners,Family Office,4.2,UK,Emerging Manager,Long Short Equity,Medium,Quarterly liquidity,Concerned about drawdowns,Recently allocated to market-neutral strategies
+INV002,Helios Pension Trust,Pension Fund,32.0,Europe,Established Manager,Multi-Asset,Low,Monthly liquidity,Fee sensitivity,Reviewing external manager roster
+INV003,Arden Endowment,Endowment,12.5,US,Emerging Manager,AI Infrastructure,High,Annual liquidity,Capacity constraints,Increasing alternatives allocation
+INV004,Meridian Wealth Advisory,Wealth Platform,8.7,UK,Growth Fund,B2B SaaS,Medium,Quarterly liquidity,Needs clear client-friendly story,Seeking differentiated private market products
+INV005,BluePeak Insurance Group,Insurance Company,45.0,Europe,Established Manager,Credit,Low,Monthly liquidity,Regulatory capital treatment,Reducing equity beta exposure
+INV006,Oak & Stone Capital,Fund of Funds,6.1,US,Emerging Manager,Hedge Funds,Medium,Quarterly liquidity,Track record length,Launching new emerging manager sleeve
+INV007,Westhaven Foundation,Foundation,2.8,US,Emerging Manager,Climate Tech,High,Annual liquidity,ESG proof points,Looking for mission-aligned investments
+INV008,CrownGate Sovereign Advisors,Sovereign Wealth Advisor,120.0,Middle East,Established Manager,Global Macro,Medium,Monthly liquidity,Operational due diligence,Expanding hedge fund allocation

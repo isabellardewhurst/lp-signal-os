@@ -1,0 +1,23 @@
+{
+  "fund_name": "Aster Capital AI Opportunities Fund",
+  "strategy": "Long/short equity strategy focused on AI infrastructure, semiconductor supply chains, cloud software, and data-center beneficiaries.",
+  "target_raise_m": 250,
+  "current_aum_m": 85,
+  "track_record_years": 3,
+  "target_investor_types": ["Family Office", "Endowment", "Fund of Funds", "Wealth Platform"],
+  "liquidity_terms": "Quarterly liquidity with 45 days notice",
+  "fees": "1.25 percent management fee and 15 percent performance fee",
+  "risk_profile": "Medium to high",
+  "differentiators": [
+    "Combines fundamental equity research with alternative data",
+    "Focuses on AI infrastructure rather than generic AI hype",
+    "Risk-managed net exposure",
+    "Founder has prior experience in technology investing and institutional sales"
+  ],
+  "constraints": [
+    "Cannot promise returns",
+    "Must distinguish actual track record from backtests",
+    "Must not imply guaranteed downside protection",
+    "Must avoid personalized investment advice"
+  ]
+}
