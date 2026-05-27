@@ -329,25 +329,6 @@ It combines:
 - auditability,
 - and capital markets workflow knowledge.
 
-## Suggested GitHub Repo Description
-
-```text
-Agentic capital raising intelligence platform for investor relations teams, with investor-fit scoring, memo generation, pipeline strategy, audit logging, and demo-mode AI provider routing.
-```
-
-## Suggested GitHub Topics
-
-```text
-streamlit
-python
-ai-engineering
-agentic-ai
-investor-relations
-capital-raising
-fundraising
-fintech
-```
-
 ## Disclaimer
 
 This project uses sample data and is intended for educational and portfolio purposes.
