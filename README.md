@@ -6,10 +6,8 @@ It helps teams prioritize potential investors, generate investor-specific memos,
 
 ## Live Demo
 
-Add your deployed Streamlit link here:
-
 ```text
-https://your-app-name.streamlit.app
+https://your-app-name.streamlit.app](https://lp-signal-os.streamlit.app/
 ```
 
 ## Live Demo Mode
